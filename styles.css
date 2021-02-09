@@ -97,11 +97,18 @@ a {
   float: left;
 }
 
-.clearfix {
-  clear: both;
+.mosbyLink {
+  text-align: center;
+
 }
 
-.location {
+.mosbyLink a{
+  color:rgb(17, 17, 17);
+  font-weight: bold;
+}
+
+.container location {
+  background-image: url("https://i.postimg.cc/pVJBjGjx/location.jpg");
   text-align: center;
   margin-bottom: 7rem;
 }
@@ -159,6 +166,11 @@ footer .container {
   height: 400px;
   width: 300px;
   float: right;
+}
+
+.saleImage {
+  height: 200px;
+  width: 200px;
 }
 
 .contactUsContainer {
