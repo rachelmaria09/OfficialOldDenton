@@ -240,7 +240,11 @@ footer .container {
   }
 
   .evansContainer1 {
-    height: 80rem;
+    height: 100rem;
     flex-wrap: wrap;
+  }
+
+  .evansContainer1 p {
+    padding: 0;
   }
 }
